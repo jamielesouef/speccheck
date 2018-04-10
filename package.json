@@ -1,0 +1,21 @@
+{
+  "name": "speccheck",
+  "version": "0.0.1",
+  "description": "Check to make sure every file has a corresponding spec file",
+  "main": "speccheck.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jamie Le Souef <jlesouef@icloud.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "colors": "^1.2.1",
+    "deepmerge": "^2.1.0",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^5.0.1",
+    "eslint-plugin-react": "^7.0.1",
+    "glob": "^7.1.2"
+  }
+}
