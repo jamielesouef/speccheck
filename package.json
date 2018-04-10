@@ -1,6 +1,6 @@
 {
   "name": "speccheck",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Check to make sure every file has a corresponding spec file",
   "main": "speccheck.js",
   "scripts": {
